@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "CSE 485",
+      "day": "Apr 3rd at 1:15pm",
+      "reminder": true
+    },
+    {
+      "text": "Do Homework",
+      "day": "EveryDay",
+      "reminder": false,
+      "id": 2
+    },
+    {
+      "text": "Finish the Crash course",
+      "day": "Today",
+      "reminder": true,
+      "id": 3
+    }
+  ]
+}
